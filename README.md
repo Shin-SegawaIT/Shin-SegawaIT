@@ -1,16 +1,24 @@
-## Hi there 👋
+## こんにちは、SEGAWASHINです 👋
 
-<!--
-**Shin-SegawaIT/Shin-SegawaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+学生エンジニアとして日々学習しながら、エンジニア職での就職を目指して就活中です。  
+プログラミングの基礎力と、継続して学び続ける姿勢を大事にしています。
 
-Here are some ideas to get you started:
+## プロフィール
+- 27卒 / 情報工学科
+- 筋トレ、プログラミング学習が趣味です。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###  今取り組んでいること
+- プログラミングスキルの向上
+- 開発経験を積むための個人開発・学習
+
+###  技術スタック
+- 言語：HTML / CSS / JavaScript / TypeScript / PHP / Python / Kotlin / C / Dart / Java（勉強中）/ SQL
+- フレームワーク・ライブラリ：Laravel / React（勉強中） / Flutter
+- BaaS・その他：Supabase / Git など
+
+###  実績
+- 株式会社アスパーク 1dayハッカソン(アイデアソン)　優勝 (2025)
+
+#### 一言
+ まだまだ学ぶことはいっぱいありますが、精一杯頑張ります！
