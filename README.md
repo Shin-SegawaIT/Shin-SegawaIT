@@ -13,8 +13,8 @@
 - 開発経験を積むための個人開発・学習
 
 ###  技術スタック
-- 言語：HTML / CSS / JavaScript / TypeScript / PHP / Python / Kotlin / C / Dart / Java（勉強中）/ SQL
-- フレームワーク・ライブラリ：Laravel / React（勉強中） / Flutter
+- 言語：HTML / CSS / JavaScript / TypeScript / PHP / Python / Kotlin / C / Dart / Java / SQL
+- フレームワーク・ライブラリ：Laravel / React / Flutter
 - BaaS・その他：Supabase / Git など
 
 ###  実績
